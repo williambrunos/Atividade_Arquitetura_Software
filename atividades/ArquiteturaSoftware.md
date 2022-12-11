@@ -76,7 +76,17 @@ stmt.setString(1, isbn);
 
 2) Roteiro prático sobre microsserviços https://github.com/aserg-ufmg/micro-livraria
 
+Repoistório no meu perfil após o fork:
+
+[micro-livraria](https://github.com/williambrunos/micro-livraria)
+
 2.1**Tarefa Prática #1: Implementando uma Nova Operação**
+
+O commit foi realizado seguindo os passos descritos no repositório, segue o link:
+
+[Link commit #1 - Microservices](https://github.com/aserg-ufmg/micro-livraria/commit/e8aec37126a9dd9fe3310d0f22672a5cb02e3644)
+
+[Link commit #2 - Docker](https://github.com/aserg-ufmg/micro-livraria/commit/af12f595515c5de9eb9787781fef1bddb116cf2a)
 
 2.2**Tarefa Prática #2: Criando um Container Docker**
 
